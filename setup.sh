@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Z_DOT_FILES=(.zshrc .zprofile .zshenv .zcompdump .zprezto .zcompdump.zwc .zlogin .zlogout .zpreztorc)
+Z_DOT_FILES=(.zshrc .zprofile .zshenv .zcompdump .zprezto .zcompdump.zwc .zlogin .zlogout .zpreztorc .vimrc)
 
 # for file in ${Z_DOT_FILES[@]}
 #   do
